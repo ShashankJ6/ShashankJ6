@@ -8,7 +8,7 @@ I'm a B.Sc. Informatics/ Computer Science student at TUM, currently learning sof
 - OCaml and functional programming
 - Building projects for my GitHub portfolio
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - Java
 - Python
 - Assembly / RISC-V
