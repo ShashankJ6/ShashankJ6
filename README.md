@@ -1,23 +1,23 @@
 ## Hi there, I'm Shashank 👋
 
-I'm a B.Sc. Informatics/ Computer Science student at TUM, currently learning software engineering, data structures & algorithms, functional programming and Computer Architecture.
+I'm a B.Sc. Informatics/ CS student at the Technical University of Munich (TUM), currently learning software engineering, data structures & algorithms, functional programming and Computer Architecture.
 
 ## 🚀 What I'm working on
-- Java and object-oriented programming
+- Java and Software Engineering
 - Data structures and algorithms
 - OCaml and functional programming
 - Building projects for my GitHub portfolio
 
 ## Tools & Technologies
-- Java
 - Python
+- Java
 - Assembly / RISC-V
 - OCaml
 - Git & GitHub
 
 ## Interests
+- AI/ML
 - Robotics and autonomous systems
-- AI / ML
 - Hardware-software interaction
 
 ## 📫 Connect with me
