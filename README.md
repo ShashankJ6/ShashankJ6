@@ -1,28 +1,15 @@
-## Hi there, I'm Shashank 👋
+## Hi, I'm Shashank 👋
 
-I'm a B.Sc. Informatics student at the Technical University of Munich (TUM), currently learning software engineering, data structures & algorithms, functional programming and Computer Architecture.
+B.Sc. Computer Science student at TU Munich.
 
-## 🚀 What I'm working on
-- Java and Software Engineering
-- Data structures and algorithms
-- OCaml and functional programming
-- Building projects for my GitHub portfolio
+**Recent work**
+- Won the Die Autobahn GmbH challenge at the TUM Science Hackathon 2026: a traffic forecasting prototype (Python, LightGBM, Streamlit)
+- Solaris: a geospatial ML pipeline scoring solar-farm suitability in Bavaria (CDTM Energy Hack)
 
-## Tools & Technologies
-- Java
-- Python
-- C/C++
-- Assembly / RISC-V
-- OCaml
-- Git
-
-## Interests
-- AI/ML
-- Embodied Robotics
-- Hardware-software interaction
+**Tools:** Java, Python, SQL, Next.js
 
 ## 📫 Connect with me
-- LinkedIn: www.linkedin.com/in/shashankj6
+- [LinkedIn](https://www.linkedin.com/in/shashankj6)
 
 <!--
 **ShashankJ6/ShashankJ6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
