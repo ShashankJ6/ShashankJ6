@@ -8,7 +8,7 @@ B.Sc. Computer Science student at TU Munich.
 
 **Tools:** Java, Python, SQL, Next.js
 
-## 📫 Connect with me
+## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/shashankj6)
 
 <!--
